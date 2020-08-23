@@ -1,2 +1,2 @@
 # superHeroApp
-This app show the description of some heros 
+This app shows the description of some heros 
